@@ -1,6 +1,8 @@
 # Excel-Repository
 Portfolio of Excel Spreadsheets
 
-Pivot Tables/Charts\
-  Filename: pivot.xlsx
+Filenames: 
+*pivot.xlsx
+*lookups.xlsx
+*in-memory-processing.xlsm
 
