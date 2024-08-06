@@ -2,5 +2,5 @@
 Portfolio of Excel Spreadsheets
 
 Pivot Tables/Charts\
-&ensp; Filename: pivot.xlsx
+  Filename: pivot.xlsx
 
